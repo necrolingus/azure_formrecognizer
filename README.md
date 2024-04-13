@@ -1,4 +1,4 @@
-# Azure Form Recognizer for FNB (First National Bank) Statements
+# Azure Form Recognizer for FNB (First National Bank) bank statements
 Everywhere where there is "xxx" in the code put the actual details
 
 
